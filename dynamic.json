@@ -1,0 +1,46 @@
+{
+  "career":{
+    "info":"The given details are trustworthy"
+  },
+  "education":[
+    {
+      "Noti":"BJM Carmel Academy",
+      "Yop":"2014",
+      "CGPA":"9.4"
+
+    },
+    {
+    "Noti":"Nalanda",
+    "Yop":"2016",
+    "CGPA":"70%"
+  },
+  {
+  "Noti":"Nirula",
+  "Yop":"2020",
+  "CGPA":"8.2"
+  }
+],
+"tech":[
+  {
+    "title":"Techinical Skills",
+    "content":"c"
+
+  },
+  {
+    "content":"java"
+  },
+  {
+    "content":"c++"
+  }
+],
+"skills":[
+  {
+    "title":"dsfjfsd",
+    "content":"dancing"
+  },
+  {
+    "content":"sports"
+  }
+
+]
+}
